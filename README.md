@@ -1,16 +1,136 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashish Khot</h1>
+<h3 align="center">Full Stack Developer  | MERN Stack | AI Enthusiast</h3>
 
-<!--
-**Ashish-Khot/Ashish-Khot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+Developer;React+Developer;MERN+Stack+Developer;AI+Enthusiast;Open+Source+Contributor" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Computer Science Student
+- 💻 Passionate about Full Stack Development
+- 🌐 MERN Stack Developer
+- 🤖 Interested in AI & Machine Learning
+- 🌱 Currently Learning **React, AI Engineering**
+
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://github.com/Ashish-Khot">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashish-khot-969a212ba/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:khotashish8395@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,flask" />
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🚰 QR-based bottle recycling management system | Flutter, Flask, Firebase |
+| 📚 PrepBuddy | AI-powered quiz generator from PDF | MERN, Gemini API |
+| 📱 QR Generator | QR Code Generator & Scanner | React, React Native |
+| 🌐 Portfolio Website | Personal Portfolio | React |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashish-Khot&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-Khot&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Khot&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ashish-Khot&theme=tokyonight&row=2&column=4"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-Khot&theme=tokyo-night"/>
+</p>
+
+---
+
+# ⚡ Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ashish-Khot&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 💬 Quote
+
+> "Consistency beats intensity. Keep building, keep learning."
+
+---
+
+<p align="center">
+⭐ Thank you for visiting my profile! ⭐
+</p>
