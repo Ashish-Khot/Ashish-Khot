@@ -56,16 +56,12 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,flask" />
 </p>
 
-### Mobile
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-</p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
@@ -76,8 +72,7 @@
 |----------|-------------|------|
 | 🚰 QR-based bottle recycling management system | Flutter, Flask, Firebase |
 | 📚 PrepBuddy | AI-powered quiz generator from PDF | MERN, Gemini API |
-| 📱 QR Generator | QR Code Generator & Scanner | React, React Native |
-| 🌐 Portfolio Website | Personal Portfolio | React |
+
 
 ---
 
@@ -93,29 +88,11 @@
 
 ---
 
-# 📈 Most Used Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Khot&layout=compact&theme=tokyonight"/>
-</p>
 
----
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ashish-Khot&theme=tokyonight&row=2&column=4"/>
-</p>
 
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-Khot&theme=tokyo-night"/>
-</p>
-
----
 
 # ⚡ Profile Views
 
